@@ -6,7 +6,7 @@ _Pbxbot_zip () {
     then
         echo "https://github.com/${PLUGINS_REPO}/archive/master.zip"
     else
-        echo "https://github.com/karmaxexclusive/NewMdPlugin/archive/master.zip"
+        echo "https://github.com/karmaxexclusive/Test/archive/master.zip"
     fi
 }
 
