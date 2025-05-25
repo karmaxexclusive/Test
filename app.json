@@ -1,15 +1,15 @@
 {
-    "name": "🕊️⃝‌ᴘʙx ❤️ᥫ᭡፝֟፝֟ 2.0 ",
+    "name": "NewModule",
     "description": "One of the best Userbot for Telegram. Known for its Smoothness, Design, Support.",
-    "logo": "https://telegra.ph/file/6ce1de27d207a128b408d.jpg",
+    "logo": "https://files.catbox.moe/50q73b.jpg",
     "keywords": [
         "telegram",
         "userbot",
         "plugin",
         "pyrogram",
-        "Pbxbot"
+        "NewModule"
     ],
-    "repository": "https://github.com/Pbx-Official/PBX_2.0/",
+    "repository": "https://github.com/karmaxexclusive/Test/",
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
@@ -50,18 +50,18 @@
         },
         "PLUGINS_REPO": {
             "description": "Fillup the username/reponame of the plugins repo.",
-            "value": "badmunda98/PbxPlugin",
+            "value": "karmaxexclusive/NewMdPlugin",
             "required": true
         },
         "DEPLOY_REPO": {
             "description": "Fillup the username/reponame of the deploy repo. Consider updating the default value with your own forked repo.",
-            "value": "Pbx-Official/PBX_2.0",
+            "value": "karmaxexclusive/Test",
             "required": true
         }
     },
     "buildpacks": [
         {
-            "url": "https://github.com/Badmunda98/heroku-buildpack-ffmpeg-latest"
+            "url": "https://github.com/karmaxexclusive/heroku-buildpack-ffmpeg-latest"
         },
         {
             "url": "https://github.com/heroku/heroku-buildpack-chrome-for-testing"
