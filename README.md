@@ -1,6 +1,6 @@
-<h1 align="center"><b> 🕊️⃝‌ᴘʙx ❤️ᥫ᭡፝֟፝֟ 2.0</b></h1>
+<h1 align="center"><b> 𝗡𝗘𝗪 🇮🇳 𝗠𝗢𝗗𝗨𝗟𝗘</b></h1>
 
-<p align="center"><img src="https://telegra.ph/file/fd8a6715f04182086b49e.jpg" alt="Pbx-Official"></p>
+<p align="center"><img src="https://files.catbox.moe/50q73b.jpg" alt="NewModule"></p>
 
 <h2 align="center">😈 Telegram Bot on Steroids!</h3>
 
@@ -11,26 +11,23 @@
 
 ---
 
-![GitHub forks](https://img.shields.io/github/forks/Pbx-Official/PBX_2.0?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/Pbx-Official/PBX_2.0?style=social)
-
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
-![GitHub license](https://img.shields.io/github/license/Pbx-Official/PBX_2.0?&style=social&logo=github)
+![GitHub license](https://img.shields.io/github/license/karmaxexclusive/Test?&style=social&logo=github)
 
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/ll_THE_BAD_BOT_ll)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/PBX_NETWORK)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/MY_LOGS_GC)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/FINE_N_OK)
 
 
 
 ---
 
-## Deploying PBXBOT 2.0 on Heroku
+## Deploying NEW 🇮🇳 MODULE on Heroku
 
 Follow these 4 straightforward steps to deploy PbxBot on Heroku:
 
 1. **Fork & Star this Repo:**
-    > Begin by [forking](https://github.com/Pbx-Official/PBX_2.0/fork) and [starring](https://github.com/Pbx-Official/PBX_2.0//) this repository on GitHub.
+    > Begin by [forking](https://github.com/karmaxexclusive/Test/fork) and [starring](https://github.com/karmaxexclusive/Test//) this repository on GitHub.
 
 2. **Heroku Account Login:**
    > Ensure you are logged into your [Heroku account](https://dashboard.heroku.com) before proceeding.
@@ -44,18 +41,18 @@ Follow these 4 straightforward steps to deploy PbxBot on Heroku:
 That's it! You've successfully deployed Pbx  on Heroku. Now scale dynos and start the bot!
 
 <p align="center">
-    <a href="https://heroku.com/deploy"><img src="https://img.shields.io/badge/Pbxbot-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku"/></a>
+    <a href="https://heroku.com/deploy"><img src="https://img.shields.io/badge/NEW%20MODULE%20To%20Heroku-black?style=for-the-badge&logo=heroku"/></a>
 </p>
 
 ---
 
 ## Deploy To Render ⚠️ Deploy On EU Server
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Pbx-Official/PBX_2.0)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/karmaxexclusive/Test)
 
 ---
 
-## Deploying PBXBOT 2.0 on Linux
+## Deploying NEW 🇮🇳 MODULE on Linux
 
 Pbxbot 2.0 can be deployed on any Linux VPS and terminal.
 
@@ -71,7 +68,7 @@ Pbxbot 2.0 can be deployed on any Linux VPS and terminal.
 
 3. **Clone Github repository:**
    ```bash
-   git clone https://github.com/Pbx-Official/PbxPlugin Pbxbot && cd Pbxbot
+   git clone https://github.com/karmaxexclusive/NewMdPlugin Pbxbot && cd NewMdPlugin
    ```
 
 4. **Edit Config Variables:**
@@ -97,7 +94,7 @@ Pbxbot 2.0 can be deployed on any Linux VPS and terminal.
 6. **Start the Bot:**
     > Start a sub-terminal using tmux
     ```bash
-    tmux new-session -s PBXBOT2.0
+    tmux new-session -s Test
     ```
     > Now start the bot
     ```bash
@@ -131,14 +128,14 @@ That's it! You've successfully deployed Pbxbot 2.0 on a Linux VPS in 6 easy step
 # License
 
 <p align="center">
-    <img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="PbxBot License">
+    <img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="NewModule License">
 </p>
 
 <h4 align="center">
-    Copyright (C) 2024 <a href="https://github.com/The-Pbx-Official">🕊️⃝‌ʙᴀᴅ ❤️ᥫ᭡፝֟፝֟</a>
+    Copyright (C) 2024 <a href="https://github.com/karmaxexclusive">KARMA BHAI 🇮🇳</a>
 </h4>
 
-Project [PbxBot](https://github.com/Pbx-Official/PBX_2.0) is free software: you can redistribute it and/or modify
+Project [NEW-MODULE](https://github.com/karmaxexclusive/Test) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -152,9 +149,8 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 </br>
 
 <h2 align="center">
-    Made with ❤️ by <a href="https://github.com/Pbx-Official">🕊️⃝‌ʙᴀᴅ ❤️ᥫ᭡፝֟፝֟</a>
+    Made with ❤️ by <a href="https://t.me/Fumkies">KARMA BHAI 🇮🇳</a>
 </h2>
 
 ---
-[![Forks @ll_BAD_MUNDA_ll](https://reporoster.com/forks/dark/Pbx-Official/PBX_2.0)](https://github.com/Pbx-Official/PBX_2.0/network/members)
----
+
