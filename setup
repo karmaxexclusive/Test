@@ -6,12 +6,12 @@ _Pbxbot_zip () {
     then
         echo "https://github.com/${PLUGINS_REPO}/archive/master.zip"
     else
-        echo "https://github.com/Badhacker98/PBX_2.0/archive/master.zip"
+        echo "https://github.com/karmaxexclusive/NewMdPlugin/archive/master.zip"
     fi
 }
 
 _starter () {
-    echo "••• Downloading PbxBot [v3] •••"
+    echo "••• Downloading NewModule [v3] •••"
     Pbxpath="Plugins.zip"
 
     wget -q $(_Pbxbot_zip) -O "$Pbxpath"
@@ -21,7 +21,7 @@ _starter () {
     cd $PBXPATH
     python3 ../updater.py ../requirements.txt requirements.txt
 
-    echo "••• Starting PbxBot [v3] •••"
+    echo "••• Starting NewModule [v3] •••"
     chmod 777 start.sh
     ./start.sh
 }
